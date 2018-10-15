@@ -1,4 +1,4 @@
-# The movie DB
+# The Movie Database
 
 Lookup your favorite movies from The Movie DB!
 
